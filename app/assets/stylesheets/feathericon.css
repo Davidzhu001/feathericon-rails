@@ -8,7 +8,7 @@
  * font path
  */
  @font-face {
-  font-family: 'feathericon';
+  font-family: 'feather';
   src: url('feathericon.eot');
   src: url('feathericon.eot?#iefix') format('embedded-opentype'),
     url('feathericon.woff') format('woff'),
